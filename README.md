@@ -4,7 +4,7 @@ This repository contains the work done in Visual Studio for the web application 
 
 ## Note
 
-Please note that due to some file issues experienced during the development, the ReactJS part of this project is maintained in a separate repository. You can find it [HERE]([https://github.com/PierrevdMerwe/NewsclipWebAppReactJS]).
+Please note that due to some file issues experienced during the development, the ReactJS part of this project is maintained in a separate repository. You can find it [HERE](https://github.com/PierrevdMerwe/NewsclipWebAppReactJS).
 
 ## Getting Started
 
